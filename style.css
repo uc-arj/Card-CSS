@@ -64,8 +64,6 @@ h3{
   -webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
   margin:30px 0px 20px 0px;
-
-  
 }
 /* card animation */
 @keyframes rotation {
